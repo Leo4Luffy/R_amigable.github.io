@@ -1,0 +1,22 @@
+---
+title: ""
+---
+
+<br>
+
+Los temas que se veran se resumen a continuación:
+
+<ul class="timeline" id="timeline">
+  <li class="li complete">
+  Se hablará sobre que es el lenguaje de programación `R` y porque es interesante su uso. Se aprenderá también sobre en que consisten los paquetes en `R` y el trabajo con proyectos. <a href="schedule/1_class.html"><br>Ver más aquí</a>
+  </li>
+  <li class="li complete">
+  
+  </li>
+  <li class="li complete">
+  
+  </li>
+  <li class="li">
+  
+  </li>
+ </ul>      

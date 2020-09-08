@@ -1,0 +1,23 @@
+name: "curso-R"
+output_dir: "."
+navbar:
+  title: ""
+  left:
+    - text: "Inicio"
+      icon: fa-home
+      href: index.html
+    - text: "instructores"
+      icon: fa-chalkboard-teacher
+      href: people.html
+    - text: "Temas"
+      icon: fa-calendar-minus
+      href: schedule.html
+  right:
+    - icon: fa-github
+      href: https://github.com/Leo4Luffy/R_amigable.github.io
+output:
+  html_document:
+    theme: journal
+    highlight: haddock
+    df_print: paged
+    css: estilo.css
