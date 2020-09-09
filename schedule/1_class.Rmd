@@ -25,10 +25,10 @@ library(knitr)
 
 <tr>
  <th rowspan="2">¿Que es el `R` y por qué usarlo?</th>
- <td></td>
+ <td>[presentación](https://leo4luffy.github.io/Dapositivas_R_amigable/clase_1a#1)</td>
 </tr>
 <tr>
- <td></td>
+ <td>video</td>
 </tr>
 
 <tr>
