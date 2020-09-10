@@ -37,7 +37,9 @@ include_graphics('Imagenes/flujo_AD.png')
 
 Se pretende que al finalizar el curso pueda:
 
-  + 
+  + Escribir código usando el lenguaje de programación `R`.
+
+  + Adquirir distintas habilidades en la limpieza, manipulación y visualización de datos mediante el uso del lenguaje de programación `R`.
 
 <hr>
 

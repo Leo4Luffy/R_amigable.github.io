@@ -4,7 +4,7 @@ title: ""
 
 <br>
 
-Los temas que se veran se resumen a continuación:
+Los temas que se verán se resumen a continuación:
 
 <ul class="timeline" id="timeline">
   <li class="li complete">
