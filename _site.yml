@@ -12,6 +12,9 @@ navbar:
     - text: "Temas"
       icon: fa-calendar-minus
       href: schedule.html
+    - text: "Herramientas"
+      icon: fa-toolbox
+      href: tools.html
   right:
     - icon: fa-github
       href: https://github.com/Leo4Luffy/R_amigable.github.io

@@ -33,13 +33,13 @@ library(knitr)
 
 <tr>
  <th rowspan="3">Paquetes en `R` y trabajo con proyectos</th>
- <td></td>
+ <td>[presentación](https://leo4luffy.github.io/Dapositivas_R_amigable/clase_1b#1)</td>
 </tr>
 <tr>
- <td></td>
+ <td>video</td>
 </tr>
 <tr>
- <td></td>
+ <td>código `R`</td>
 </tr>
 
 </table>
