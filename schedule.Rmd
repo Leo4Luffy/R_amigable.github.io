@@ -11,7 +11,7 @@ Los temas que se verán se resumen a continuación:
   Se hablará sobre que es el lenguaje de programación `R` y porque es interesante su uso. Se aprenderá también sobre en que consisten los paquetes en `R` y el trabajo con proyectos. <a href="schedule/1_class.html"><br>Ver más aquí</a>
   </li>
   <li class="li complete">
-  
+  Se hablará sobre los diferentes tipos de objetos en `R` y algunas operaciones básicas que se pueden hacer sobre los mismos usando el sistema base del `R`. <a href="schedule/2_class.html"><br>Ver más aquí</a>
   </li>
   <li class="li complete">
   
