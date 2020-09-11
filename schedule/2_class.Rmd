@@ -38,7 +38,7 @@ Al hacer clic en cada palabra como por ejemplo "presentación", podrá acceder a
 
 <tr>
  <th rowspan="3">Matrices y conjuntos de datos</th>
- <td>[presentación]()</td>
+ <td>[presentación](https://leo4luffy.github.io/Dapositivas_R_amigable/clase_2b#1)</td>
 </tr>
 <tr>
  <td>video</td>
