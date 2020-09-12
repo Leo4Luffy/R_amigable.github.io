@@ -37,8 +37,14 @@ Al hacer clic en cada palabra como por ejemplo "presentación", podrá acceder a
 </tr>
 
 <tr>
- <th rowspan="3">Matrices y conjuntos de datos</th>
+ <th rowspan="5">Matrices y conjuntos de datos</th>
  <td>[presentación](https://leo4luffy.github.io/Dapositivas_R_amigable/clase_2b#1)</td>
+</tr>
+<tr>
+ <td>[starwars.csv](https://github.com/Leo4Luffy/R_amigable.github.io/blob/master/conjuntos_datos/starwars.csv)</td>
+</tr>
+<tr>
+ <td><a href="https://github.com/Leo4Luffy/R_amigable.github.io/blob/master/conjuntos_datos/starwars.txt">starwrs.txt</a></td>
 </tr>
 <tr>
  <td>video</td>
