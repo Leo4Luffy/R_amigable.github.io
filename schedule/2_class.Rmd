@@ -41,10 +41,10 @@ Al hacer clic en cada palabra como por ejemplo "presentación", podrá acceder a
  <td>[presentación](https://leo4luffy.github.io/Dapositivas_R_amigable/clase_2b#1)</td>
 </tr>
 <tr>
- <td><a href="conjuntos_datos/starwars.csv" download>starwars.csv</a></td>
+ <td><a href="R_amigable.github.io/conjuntos_datos/starwars.csv" download>starwars.csv</a></td>
 </tr>
 <tr>
- <td><a href="conjuntos_datos/starwars.txt" download>starwars.txt</a></td>
+ <td><a href="R_amigable.github.io/conjuntos_datos/starwars.txt" download>starwars.txt</a></td>
 </tr>
 <tr>
  <td>video</td>
