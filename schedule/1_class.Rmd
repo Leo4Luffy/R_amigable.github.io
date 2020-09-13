@@ -30,7 +30,7 @@ Al hacer clic en cada palabra como por ejemplo "presentación", podrá acceder a
  <td>[presentación](https://leo4luffy.github.io/Dapositivas_R_amigable/clase_1a#1)</td>
 </tr>
 <tr>
- <td>video</td>
+ <td>[video](https://youtu.be/dSWdCOPmIuM)</td>
 </tr>
 
 <tr>
