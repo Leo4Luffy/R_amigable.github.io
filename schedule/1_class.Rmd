@@ -38,7 +38,7 @@ Al hacer clic en cada palabra como por ejemplo "presentación", podrá acceder a
  <td>[presentación](https://leo4luffy.github.io/Dapositivas_R_amigable/clase_1b#1)</td>
 </tr>
 <tr>
- <td>video</td>
+ <td>[video](https://youtu.be/CVYBiv2_jUM)</td>
 </tr>
 <tr>
  <td><a href="../codigos/clase_1b.R" class="export">código `R`</a></td>
