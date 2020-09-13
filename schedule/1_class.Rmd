@@ -41,7 +41,7 @@ Al hacer clic en cada palabra como por ejemplo "presentación", podrá acceder a
  <td>video</td>
 </tr>
 <tr>
- <td>código `R`</td>
+ <td><a href="../codigos/clase_1b.R" class="export">código `R`</a></td>
 </tr>
 
 </table>
