@@ -14,7 +14,7 @@ Los temas que se verán se resumen a continuación:
   Se hablará sobre los diferentes tipos de objetos en `R` y algunas operaciones básicas que se pueden hacer sobre los mismos usando el sistema base del `R`. <a href="schedule/2_class.html"><br>Ver más aquí</a>
   </li>
   <li class="li complete">
-  
+  Se hablará sobre en que consiste los datos ordenados, y se introducira el `tidyverse` presentando uno de sus paquetes: el paquete `tidyr`. <a href="schedule/3_class.html"><br>Ver más aquí</a>
   </li>
   <li class="li">
   
