@@ -9,9 +9,9 @@ library(knitr)
 
 <br>
 
-# Clase 1: Lo básico en el uso del `R`
+# Clase 2: Lo básico en el uso del `R`
 
-Al hacer clic en cada palabra como por ejemplo "presentación", podrá acceder al material del curso.
+Al hacer clic en cada palabra como por ejemplo "&#128064; presentación", podrá acceder al material del curso.
 
 <br>
 
@@ -27,27 +27,27 @@ Al hacer clic en cada palabra como por ejemplo "presentación", podrá acceder a
 
 <tr>
  <th rowspan="3">Escalares y vectores</th>
- <td>[presentación](https://leo4luffy.github.io/Dapositivas_R_amigable/clase_2a#1)</td>
+ <td>&#128064; [presentación](https://leo4luffy.github.io/Dapositivas_R_amigable/clase_2a#1)</td>
 </tr>
 <tr>
- <td>video</td>
+ <td>&#128483;  video</td>
 </tr>
 <tr>
- <td>código `R`</td>
+ <td>&#128187; código `R`</td>
 </tr>
 
 <tr>
  <th rowspan="4">Matrices y conjuntos de datos</th>
- <td>[presentación](https://leo4luffy.github.io/Dapositivas_R_amigable/clase_2b#1)</td>
+ <td>&#128064; [presentación](https://leo4luffy.github.io/Dapositivas_R_amigable/clase_2b#1)</td>
 </tr>
 <tr>
- <td><a href="../conjuntos_datos/starwars.csv" class="export">starwars.csv</a></td>
+ <td>&#128221; <a href="../conjuntos_datos/starwars.csv" class="export">starwars.csv</a></td>
 </tr>
 <tr>
- <td>video</td>
+ <td>&#128483;  video</td>
 </tr>
 <tr>
- <td>código `R`</td>
+ <td>&#128187; código `R`</td>
 </tr>
 
 </table>

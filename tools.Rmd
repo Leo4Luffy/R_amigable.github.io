@@ -4,11 +4,17 @@ title: ""
 
 <br>
 
-<i class="fas fa-wrench"></i> Se usara el lenguaje de programación `R`, que es un lenguaje de programación usado por estadísticos y científicos de datos. Se usara el interprete de RStudio mientras se usa el lenguaje `R`. En la primera clase recibirá instrucciones sobre cómo instalar ambos programas.
+<i class="fas fa-wrench"></i> Se usara el lenguaje de programación `R`, que es un lenguaje de programación usado por estadísticos y científicos de datos. Se usara el interprete de RStudio mientras se usa el lenguaje `R`.
+
+<hr>
+
+<i class="fab fa-youtube"></i> Cada presentación viene acompañada de una grabación de video en youtube donde se explica cada tema abordado.
 
 <hr>
 
 <!--<i class="fas fa-wrench"></i> Todas las reuniones se realizarán en zoom. Solo puede asistir a las reuniones si utiliza un correo electrónico autorizado por la U de A.-->
+
+<br>
 
 <section style="text-align: center;">Este trabajo está bajo la licencia <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</section>
 

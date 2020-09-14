@@ -11,7 +11,7 @@ library(knitr)
 
 # Clase 1: Una breve introducción al `R`
 
-Al hacer clic en cada palabra como por ejemplo "presentación", podrá acceder al material del curso.
+Al hacer clic en cada palabra como por ejemplo "&#128064; presentación", podrá acceder al material del curso.
 
 <br>
 
@@ -27,21 +27,21 @@ Al hacer clic en cada palabra como por ejemplo "presentación", podrá acceder a
 
 <tr>
  <th rowspan="2">¿Que es el `R` y por qué usarlo?</th>
- <td>[presentación](https://leo4luffy.github.io/Dapositivas_R_amigable/clase_1a#1)</td>
+ <td>&#128064; [presentación](https://leo4luffy.github.io/Dapositivas_R_amigable/clase_1a#1)</td>
 </tr>
 <tr>
- <td>[video](https://youtu.be/dSWdCOPmIuM)</td>
+ <td>&#128483; [video](https://youtu.be/dSWdCOPmIuM)</td>
 </tr>
 
 <tr>
  <th rowspan="3">Paquetes en `R` y trabajo con proyectos</th>
- <td>[presentación](https://leo4luffy.github.io/Dapositivas_R_amigable/clase_1b#1)</td>
+ <td>&#128064; [presentación](https://leo4luffy.github.io/Dapositivas_R_amigable/clase_1b#1)</td>
 </tr>
 <tr>
- <td>[video](https://youtu.be/CVYBiv2_jUM)</td>
+ <td>&#128483; [video](https://youtu.be/CVYBiv2_jUM)</td>
 </tr>
 <tr>
- <td><a href="../codigos/clase_1b.R" class="export">código `R`</a></td>
+ <td>&#128187; <a href="../codigos/clase_1b.R" class="export">código `R`</a></td>
 </tr>
 
 </table>
