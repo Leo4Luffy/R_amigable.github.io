@@ -16,6 +16,9 @@ Los temas que se verán se resumen a continuación:
   <li class="li complete">
   Se hablará sobre en que consiste los datos ordenados, y se introducira el `tidyverse` presentando uno de sus paquetes: el paquete `tidyr`. <a href="schedule/3_class.html"><br>Ver más aquí</a>
   </li>
+  <li class="li complete">
+  Se hablará sobre la manipulación de conjuntos de datos, y se hablará sobre uno de los paquetes del `tidyverse` que se emplea en esta tarea: el paquete `dplyr`. <a href="schedule/4_class.html"><br>Ver más aquí</a>
+  </li>
   <li class="li">
   
   </li>
