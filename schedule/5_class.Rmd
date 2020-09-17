@@ -1,0 +1,58 @@
+---
+title: " "
+---
+
+```{r, eval = TRUE, echo = FALSE, message = FALSE}
+
+library(knitr)
+```
+
+<br>
+
+# Clase 4: Visualización de datos con los paquetes `ggplot2` y `gganimate`
+
+Al hacer clic en cada palabra como por ejemplo "&#128064; presentación", podrá acceder al material del curso.
+
+<br>
+
+<div class = "row">
+
+<div class = "col-md-6">
+
+<table border="1">
+<tr>
+ <th></th>
+ <td>Enlaces</td>
+</tr>
+
+<tr>
+ <th rowspan="2">Manipulación de datos con `dplyr`</th>
+ <td>&#128064; [presentación](https://leo4luffy.github.io/Dapositivas_R_amigable/clase_5a#1)</td>
+</tr>
+<tr>
+ <td>&#128483; [video]()</td>
+</tr>
+
+</table>
+
+</div>
+
+<div class = "col-md-6">
+
+```{r, eval = TRUE, echo = FALSE, message = FALSE, fig.align = 'center', out.width = '240'}
+
+include_graphics('../Imagenes/R_feliz.png')
+```
+
+</div>
+
+</div>
+
+<hr>
+
+<section style="text-align: center;">Este trabajo está bajo la licencia <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</section>
+
+<br>
+
+<section style="text-align: center;"><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br/></section>
+
