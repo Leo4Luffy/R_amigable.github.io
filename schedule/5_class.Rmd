@@ -9,7 +9,7 @@ library(knitr)
 
 <br>
 
-# Clase 4: Visualización de datos con los paquetes `ggplot2` y `gganimate`
+# Clase 5: Visualización de datos con los paquetes `ggplot2` y `gganimate`
 
 Al hacer clic en cada palabra como por ejemplo "&#128064; presentación", podrá acceder al material del curso.
 
@@ -26,8 +26,15 @@ Al hacer clic en cada palabra como por ejemplo "&#128064; presentación", podrá
 </tr>
 
 <tr>
- <th rowspan="2">Manipulación de datos con `dplyr`</th>
+ <th rowspan="2">Visualización de datos con `ggplot2`</th>
  <td>&#128064; [presentación](https://leo4luffy.github.io/Dapositivas_R_amigable/clase_5a#1)</td>
+</tr>
+<tr>
+ <td>&#128483; [video]()</td>
+ <tr>
+</tr>
+ <th rowspan="2">Visualización animada de datos</th>
+ <td>&#128064; [presentación]()</td>
 </tr>
 <tr>
  <td>&#128483; [video]()</td>

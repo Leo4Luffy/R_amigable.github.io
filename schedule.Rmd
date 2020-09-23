@@ -20,7 +20,7 @@ Los temas que se verán se resumen a continuación:
   Se hablará sobre la manipulación de conjuntos de datos, y se hablará sobre uno de los paquetes del `tidyverse` que se emplea en esta tarea: el paquete `dplyr`. <a href="schedule/4_class.html"><br>Ver más aquí</a>
   </li>
   <li class="li">
-  
+  Se hablará sobre la visualización de conjuntos de datos, y se hablará sobre uno de los paquetes del `tidyverse` que se emplea en esta tarea: el paquete `ggplot2`. <a href="schedule/5_class.html"><br>Ver más aquí</a>
   </li>
 </ul>
 
