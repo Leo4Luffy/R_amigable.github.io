@@ -34,7 +34,7 @@ Al hacer clic en cada palabra como por ejemplo "&#128064; presentación", podrá
  <tr>
 </tr>
  <th rowspan="2">Visualización animada de datos</th>
- <td>&#128064; [presentación]()</td>
+ <td>&#128064; [presentación](https://leo4luffy.github.io/Dapositivas_R_amigable/clase_5b#1)</td>
 </tr>
 <tr>
  <td>&#128483; [video]()</td>
