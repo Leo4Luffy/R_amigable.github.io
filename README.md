@@ -2,6 +2,8 @@
 
 <hr>
 
+[Aquí](https://leo4luffy.github.io/R_amigable.github.io/) podrá acceder al material.
+
 <section style="text-align: center;">Este trabajo está bajo la licencia <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</section>
 
 <br>
